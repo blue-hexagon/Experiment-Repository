@@ -1,5 +1,7 @@
 # Experiments
-Repository for various small standalone programs or experiments
+Repository for various small standalone programs or experiments.
+
+All headings below corresponds to a file located in the root of this repository, which contains the source code.  
 
 ## FileStego
 Simple program that encodes and/or decodes a Python payload as harddrive files.

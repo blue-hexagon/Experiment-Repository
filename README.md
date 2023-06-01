@@ -1,5 +1,5 @@
 # Experiments
-Various small programs or research on various matters
+Repository for various small standalone programs or experiments
 
 ## FileStego
 Simple program that encodes and decodes a Python payload as harddrive files.

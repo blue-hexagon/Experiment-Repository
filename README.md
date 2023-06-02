@@ -4,7 +4,7 @@ Repository for various small standalone programs or experiments.
 All headings below corresponds to a file located in the root of this repository, which contains the source code.  
 
 ## FileStego
-Simple program that encodes and/or decodes a Python payload as harddrive files.
+Simple program that encodes/decodes a Python payload as harddrive files which acts as payload data-sequence numbers and contains shifted ASCII integers which correspond to the payload.
 
 ## Unicode In Python
 Testing unicode and the conversion from/to various primitive (+ string) datatypes.

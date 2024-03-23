@@ -1,5 +1,5 @@
 # Experiments
-Repository for various small standalone programs or experiments.
+Repository for various small standalone programs, experiments or just code snippets I want to store away somewhere.
 
 All headings below corresponds to a file located in the root of this repository, which contains the source code.  
 
